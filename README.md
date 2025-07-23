@@ -54,7 +54,7 @@ This tool is intended for **forensic analysts** and **ethical hackers** working 
 
 ## Demo
 
-  ![Demo](https://github.com/user-attachments/assets/b5702661-9d24-4ebd-986b-3436313721a3)
+![WebStripper](https://github.com/user-attachments/assets/8027fd94-3380-407b-8d7b-a8fc4883909a)
 
 
 
