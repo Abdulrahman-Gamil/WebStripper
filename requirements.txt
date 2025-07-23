@@ -1,0 +1,6 @@
+colorama 
+pycryptodomex 
+pypsexec 
+pywin32 
+crypto 
+pycryptodome
