@@ -17,7 +17,6 @@ This tool is intended for **forensic analysts** and **ethical hackers** working 
 
 <img width="998" height="748" alt="image" src="https://github.com/user-attachments/assets/ed8b9a75-22e9-4493-813a-4d1fc5608568" />
 
-
 ---
 
 ## Supported Browsers and Tested Versions
