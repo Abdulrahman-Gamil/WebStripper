@@ -57,5 +57,4 @@ This tool is intended for **forensic analysts** and **ethical hackers** working 
 ![WebStripper](https://github.com/user-attachments/assets/8027fd94-3380-407b-8d7b-a8fc4883909a)
 
 
-
 > ⚠️ **Note**: Strict Legal Warning This WebStripper tool is for authorized use only. Unauthorized use, or data extraction from any system you do not own or have explicit written permission to test is illegal and unethical. Misuse of this tool may lead to criminal charges, including but not limited to violations of data protection and privacy laws. You are solely responsible for how you use this tool.
